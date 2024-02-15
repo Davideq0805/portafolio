@@ -1,6 +1,36 @@
-.bg {
-    background-image: url(/assets/img/_3895fbb5-7468-4ef4-9e10-84eb1e54eaee.jpg);
+.inicio {
+    background-image: url(/assets/img/pexels-scott-webb-593158.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin-top: 0px;
 }
 
+.titulo {
+    color: blanchedalmond;
+    text-align: left;
+    padding-top: 500px;
+    padding-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+}
+
+.inicio {
+    margin-bottom: 0;
+}
+
+.about {
+    background-color: black;
+    height: 100vh;
+    margin-top: 0px;
+}
+
+.parrafo {
+    color: antiquewhite;
+    text-align: left;
+    padding-top: 400px;
+    padding-left: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
